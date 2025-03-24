@@ -1,7 +1,6 @@
 package com.rafaeltech.viewmovie.api
 
 
-import com.rafaeltech.viewmovie.model.Movie
 import com.rafaeltech.viewmovie.model.MovieResponse
 import retrofit2.Response
 import retrofit2.http.GET
